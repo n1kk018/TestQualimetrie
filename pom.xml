@@ -65,13 +65,13 @@
   	</dependencies>
   </dependencyManagement>
   <build>
-  	<extensions>
+  	<!--<extensions>
   		<extension>
   			<groupId>fr.afcepf.al28</groupId>
   			<artifactId>checkstyle-config</artifactId>
   			<version>1.0</version>
   		</extension>
-  	</extensions>
+      </extensions>-->
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
